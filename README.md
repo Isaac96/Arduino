@@ -43,3 +43,5 @@ Arduino uses the [GNU avr-gcc toolchain](http://gcc.gnu.org/wiki/avr-gcc), [avrd
 
 Icon and about image designed by [ToDo](http://www.todo.to.it/)
 
+Go Arduino.cc! (NOT Arduino LLC/SRL)
+
